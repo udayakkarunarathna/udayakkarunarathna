@@ -11,10 +11,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="mailto:udaya.karunarathna@gmail.com" target="_blank">
+<a href="mailto:udaya.karunarathna@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/udaya-karunarathna/" target="_blank">
+<a href="https://www.linkedin.com/in/udaya-karunarathna/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
