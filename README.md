@@ -2,11 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; A Full-Stack Developer.
+
 - 🎓 &nbsp; Master in Data Science at Dalarna University.
+- 
 - 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing.
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<br/>
 <a href="mailto:udaya.karunarathna@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
