@@ -7,7 +7,6 @@
 - 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing.
 
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:udaya.karunarathna@gmail.com" target="_blank" rel="noopener noreferrer">
