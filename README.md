@@ -18,3 +18,5 @@
 <a href="https://www.linkedin.com/in/udaya-karunarathna/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+📌 **Tip**: Use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac) to open links in a new tab. 🚀
