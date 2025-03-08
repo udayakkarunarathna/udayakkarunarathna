@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; A Full-Stack Developer.
-- 🎓 &nbsp; Master in Data Science at Dalarna University.
-- 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing.
+- 🎓 &nbsp; Master in Data Science at Dalarna University - Sweden.
+- 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing - Sri Lanka.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:udaya.karunarathna@gmail.com" target="_blank" rel="noopener noreferrer">
