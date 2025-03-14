@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A Full-Stack Developer. <font style="color:'red'">Java .Net React Angular</b>
+- 🤔 &nbsp; A Full-Stack Developer. <b>Java .Net React Angular</b>
 - 🎓 &nbsp; Master in Data Science at Dalarna University - Sweden.
 - 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing - Sri Lanka.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
