@@ -2,9 +2,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A Full-Stack Developer. <b>Java .Net React Angular</b>
-- 🎓 &nbsp; Master in Data Science at Dalarna University - Sweden.
-- 🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing - Sri Lanka.
+Hi, I’m Udaya Karunarathna
+💻 &nbsp; Data Engineer | Software Engineer | Data Science Enthusiast<br/>
+🌐 &nbsp; 12+ years of experience in software engineering, transitioning into data engineering<br/>
+📊 &nbsp; Skilled in SQL, Python, C#, Java, R, JavaScript<br/>
+🔗 &nbsp; Hands-on with Microsoft Fabric, Power BI, Azure, Data Warehousing, ETL/ELT pipelines<br/>
+🏥 &nbsp; Experienced in healthcare systems, data integration, and BI reporting<br/>
+🎓 &nbsp; Master’s in Data Science (Sweden)<br/>
+🎓 &nbsp; Bachelor in Computer Science at University of Colombo School Of Computing - Sri Lanka<br/>
+🚀 &nbsp; Passionate about building scalable data solutions and operational analytics<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:udaya.karunarathna@gmail.com" target="_blank" rel="noopener noreferrer">
