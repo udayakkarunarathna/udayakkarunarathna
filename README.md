@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Hi, I’m Udaya Karunarathna
 💻 &nbsp; Data Engineer | Software Engineer | Data Science Enthusiast<br/>
 🌐 &nbsp; 12+ years of experience in software engineering, transitioning into data engineering<br/>
 📊 &nbsp; Skilled in SQL, Python, C#, Java, R, JavaScript<br/>
