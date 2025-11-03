@@ -4,7 +4,7 @@
 
 💻 &nbsp; Data Engineer | Software Engineer | Data Science Enthusiast<br/>
 🌐 &nbsp; 12+ years of experience in software engineering, transitioning into data engineering<br/>
-📊 &nbsp; Skilled in SQL, Python, C#, Java, R, JavaScript<br/>
+📊 &nbsp; Skilled in SQL, Python, Java, C#, R, JavaScript<br/>
 🔗 &nbsp; Hands-on with Microsoft Fabric, Power BI, Azure, Data Warehousing, ETL/ELT pipelines<br/>
 🏥 &nbsp; Experienced in healthcare systems, data integration, and BI reporting<br/>
 🎓 &nbsp; Master’s in Data Science (Sweden)<br/>
